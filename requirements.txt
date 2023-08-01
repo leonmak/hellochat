@@ -1,0 +1,10 @@
+pyaudio
+SpeechRecognition
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+openai-whisper
+openai
+elevenlabs
+python-dotenv
+sounddevice
+soundfile
